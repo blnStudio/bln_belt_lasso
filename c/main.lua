@@ -50,7 +50,7 @@ local function AttachLassoToBelt()
     end
     
     if not isResourceStopping then
-        attachedLasso = CreateObject(lassoModel, 0.0, 0.0, 0.0, true, true, false)
+        attachedLasso = CreateObject(lassoModel, 0.0, 0.0, 0.0, true, true, true)
         AttachEntityToEntity(
             attachedLasso, 
             playerPed, 
