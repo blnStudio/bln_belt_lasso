@@ -5,7 +5,7 @@
 Realistically display your lasso on your character's belt when equiped from inventory but not in use!.
 
 ## ⚠️ Note
-I made a more advanced script for belt attachments which comes with synced attachements between all players, can attach as many as you want. More Info: https://github.com/blnStudio/bln_belt_attachments 
+I made a more advanced script for belt attachments which comes with synced attachements feature between all players, unlike this one. More Info: https://github.com/blnStudio/bln_belt_attachments 
 
 ## Features
 - Automatically shows/hides lasso on your belt.
