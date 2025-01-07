@@ -4,8 +4,12 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 
 author 'BLN Studio <bln.tebex.io>'
 description 'Realistically display your lasso on your character\'s belt when equiped from inventory but not in use!.'
-version '1.0.0'
+version '1.0.1'
 
 client_scripts {
     'c/*.lua'
+}
+
+server_scripts {
+    'vcheck.lua'
 }
