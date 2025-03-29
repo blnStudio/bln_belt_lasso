@@ -4,13 +4,13 @@
 
 Realistically display your lasso on your character's belt when equiped from inventory but not in use!.
 
-## ⚠️ Note
-I made a more advanced script for belt attachments which comes with synced attachements feature between all players, unlike this one. More Info: https://github.com/blnStudio/bln_belt_attachments 
-
 [![](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/DHo_dzWK3PY)
 [![Discord](https://img.shields.io/badge/Discord-1111?style=flat&logo=discord&logoColor=white&color=7289da)](https://discord.bln-studio.com/)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/blnStudio/bln_belt_lasso)
 ![License](https://img.shields.io/github/license/blnStudio/bln_belt_lasso)
+
+## ⚠️ Note
+I made a more advanced script for belt attachments which comes with synced attachements feature between all players, unlike this one. More Info: https://github.com/blnStudio/bln_belt_attachments 
 
 ## Features
 - Automatically shows/hides lasso on your belt.
